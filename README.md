@@ -21,7 +21,7 @@ The password is: **infected**
 
 | Case           | Artifacts     | Blog          |
 |----------------|---------------|---------------|
-| **Opinion Survey** | 1. SRUM(Parsed NetworkUsage)<br/>2. Endpoint<br/>3. PCAP<br/>4. Scheduled Task<br/>5. Malware used | [Public Opinion Survey Results: You're Pwned](LINK)
+| **Opinion Survey** | 1. SRUM(Parsed NetworkUsage)<br/>2. Endpoint<br/>3. PCAP<br/>4. Scheduled Task<br/>5. Malware used | [Public Opinion Survey Results: You're Pwned](https://kostas-ts.medium.com/public-opinion-survey-results-youre-pwned-12273c6ad839)
 
 
 Feel free to reach out to me on  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kostastsale.svg?style=social&label=%20%40Kostastsale)](https://twitter.com/Kostastsale)
