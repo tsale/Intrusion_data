@@ -22,7 +22,7 @@ The password is: **infected**
 | Case           | Artifacts     | Blog          |
 |----------------|---------------|---------------|
 | **Opinion Survey** | 1. SRUM(Parsed NetworkUsage)<br/>2. Endpoint<br/>3. PCAP<br/>4. Scheduled Task<br/>5. Malware used | [Public Opinion Survey Results: You're Pwned](https://kostas-ts.medium.com/public-opinion-survey-results-youre-pwned-12273c6ad839)
-| **Ursnif VS Italy: Il PDF del Destino** | 1. PowerShell<br/>2. Endpoint<br/>3. PCAP<br/>5. Malware used | [Ursnif VS Italy: Il PDF del Destino](LINK)
+| **Ursnif VS Italy: Il PDF del Destino** | 1. PowerShell<br/>2. Endpoint<br/>3. PCAP<br/>5. Malware used | [Ursnif VS Italy: Il PDF del Destino](https://kostas-ts.medium.com/ursnif-vs-italy-il-pdf-del-destino-5c83d6281072)
 
 
 Feel free to reach out to me on  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kostastsale.svg?style=social&label=%20%40Kostastsale)](https://twitter.com/Kostastsale)
